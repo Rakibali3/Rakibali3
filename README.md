@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://tse3.mm.bing.net/th?id=OIP.gxnlmlCna-dYR4ybMuao-AHaD4&pid=Api&P=0&h=180" height="30" alt="MongoDB logo"  />
+  <img src="https://logodix.com/logo/2090007.jpg" height="30" alt="MongoDB logo"  />
 </div>
 
 ###
